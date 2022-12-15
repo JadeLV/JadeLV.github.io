@@ -22,4 +22,6 @@ My GitHub page is http://github.com/JadeLV.
 
 * Lab 11
     
-    Lab 11, part 2 was my absolute favorite because (). It was definetely one of the easier labs for me to work on which was encouraging after struggling with others earlier in the semester. Lab 11 primarily focused on () which is why the code (). 
+    Lab 11, part 2 was my absolute favorite because I had really enjoyed creating the Hi-Low Game in a previous lab. It was definetely one of the easier
+    Labs for me to work on which was encouraging after struggling with others earlier in the semester. Lab 11 primarily focused on creating a more complex
+    version of the Hi-Low game from a smaller lab before. Which is why the code was seemed more interactive and more satisfying to work with. 
